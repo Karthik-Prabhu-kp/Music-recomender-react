@@ -33,12 +33,12 @@ const musicDB = {
   VocalJazz: [
     {
       name: "Frank Sinatra",
-      rating: "5/5",
+      rating: "Rating:5/5",
       topsongs: "Fly me to the moon, My way, My funny valentine"
     },
     {
       name: "Louis Armstrong",
-      rating: "5/5",
+      rating: "Rating:5/5",
       topsongs:
         "What a wonderful world, La vie en rose, Dream a little dream of Me "
     }
