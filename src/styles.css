@@ -1,0 +1,69 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 4rem;
+}
+
+hr {
+  border-color: black;
+  height: 0.1rem;
+}
+
+body {
+  background-color: #065f46;
+}
+
+.btn {
+  padding: 0.75rem 2rem;
+  cursor: pointer;
+  background-color: #064e3b;
+  margin: 1rem 0.3rem;
+  border-radius: 1rem;
+  font-size: large;
+  border: 1px solid black;
+  color: #171717;
+}
+
+.container {
+  text-align: left;
+}
+
+.list {
+  list-style: none;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  width: 80%;
+}
+
+.list-item {
+  border: 1px solid black;
+  border-radius: 0.75rem;
+  margin: 1rem;
+}
+
+.text1 {
+  padding: 0.75rem;
+  font-size: larger;
+  font-weight: bold;
+}
+.text2 {
+  padding-left: 0.5rem;
+}
+.text3 {
+  padding-left: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.text4 {
+  color: #94a3b8;
+}
+
+.text5 {
+  color: #94a3b8;
+  font-weight: Heavy;
+}
+
+footer .btn a {
+  text-decoration: none;
+  color: #94a3b8;
+}
